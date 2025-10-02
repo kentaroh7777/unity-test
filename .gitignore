@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild*/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+.utmp/
+.DS_Store
+Unity_kyokasho_sample/
